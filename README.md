@@ -4,7 +4,7 @@
 
 There is always a lot of "head knowledge" regarding the best times to buy a certain item (i.e. always wait till Black Friday) or from where to buy it (according to my dad Best Buy is always the best) but there’s rarely any hard evidence to back these claims. The Price Evaluator app uses a machine learning model to predict whether you’re getting a good deal on something, or whether you should shop around some more or wait for a sale.
 
-Visit our App [here!](https://tbrecke01-price-evaluator-dashboardapp-j4a62f.streamlitapp.com/)
+Visit our App [here!](https://merzazada-price-evaluator-dashboardapp-2ulk6n.streamlitapp.com/)
 
 ## The Prediction Page
 ![Prediction_Page](Resources/prediction_page.jpg)
